@@ -3,11 +3,10 @@ import { CgWorkAlt } from "react-icons/cg";
 import CCLaundry from "../public/CCLaundry.png"
 import KEP from "../public/KEP.png"
 import Axtorix from "../public/Axtorix.png"
-import corpcommentImg from "@/public/corpcomment.png";
-import rmtdevImg from "@/public/rmtdev.png";
-import indonesianaidmobile from "@/public/indonesianaidmobile.png";
-import indonesianaidWeb from "@/public/indonesianaidWeb.png";
+import IndonesianaidMobile from "@/public/indonesianaidmobile.png";
+import IndonesianaidWeb from "@/public/indonesianaidWeb.png";
 import ComingSoon from "@/public/ComingSoon.png";
+import NotImage from "@/public/NotImage.png";
 
 export const links = [
   {
@@ -70,7 +69,7 @@ export const projectsData = [
     description:
       "During my Onsite internship. In addition to designing, creating websites such as language changer features, pagination, etc",
     tags: ["ReactJS", "Figma", "Adobe Photoshop", "Git"],
-    imageUrl: indonesianaidWeb,
+    imageUrl: IndonesianaidWeb,
   },
   {
     title: "Indonesian AID | UIUX Mobile",
@@ -78,7 +77,7 @@ export const projectsData = [
     description:
       "During my Onsite internship, I created the design for the Indonesian AID application.",
     tags: ["Figma", "User Interface", "User Experience"],
-    imageUrl: indonesianaidmobile,
+    imageUrl: IndonesianaidMobile,
   },
   {
     title: "Axtorix | UIUX and Frontend",
@@ -94,6 +93,7 @@ export const projectsData = [
     description:
       "My project for 1 month, creating a digital wedding website, with features such as RestAPI, Google AppScript, and Paginatition.",
     tags: ["ReactJS", "AppScript", "Tailwind"],
+    imageUrl: NotImage,
   },
   {
     title: "Event Website Digital KEP",
