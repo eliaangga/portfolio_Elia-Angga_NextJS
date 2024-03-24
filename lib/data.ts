@@ -7,6 +7,7 @@ import IndonesianaidMobile from "@/public/indonesianaidmobile.png";
 import IndonesianaidWeb from "@/public/indonesianaidWeb.png";
 import ComingSoon from "@/public/ComingSoon.png";
 import NotImage from "@/public/NotImage.png";
+import AllDesign from "@/public/AllDesign.png";
 
 export const links = [
   {
@@ -62,6 +63,7 @@ export const projectsData = [
       "I worked on a project as UIUX in Elgeka Team to develop Health Monitoring",
     tags: ["Figma", "User Interface", "User Experience"],
     imageUrl: ComingSoon,
+    link:""
   },
   {
     title: "Indonesian AID | UIUX Web and Frontend",
@@ -70,6 +72,7 @@ export const projectsData = [
       "During my Onsite internship. In addition to designing, creating websites such as language changer features, pagination, etc",
     tags: ["ReactJS", "Figma", "Adobe Photoshop", "Git"],
     imageUrl: IndonesianaidWeb,
+    link:""
   },
   {
     title: "Indonesian AID | UIUX Mobile",
@@ -78,6 +81,7 @@ export const projectsData = [
       "During my Onsite internship, I created the design for the Indonesian AID application.",
     tags: ["Figma", "User Interface", "User Experience"],
     imageUrl: IndonesianaidMobile,
+    link: "https://play.google.com/store/apps/details?id=id.go.kemenkeu.ldkpi"
   },
   {
     title: "Axtorix | UIUX and Frontend",
@@ -86,6 +90,7 @@ export const projectsData = [
       "During the startup, besides designing, I created a recruiter and applier website on the talent/actor management system.",
     tags: ["Figma", "Laravel", "Git"],
     imageUrl: Axtorix,
+    link:"https://drive.google.com/drive/folders/1B-17ujuGVU7fVb4gqNaM5JfKJQ54g-cp?usp=sharing"
   },
   {
     title: "Wedding Digital",
@@ -94,6 +99,7 @@ export const projectsData = [
       "My project for 1 month, creating a digital wedding website, with features such as RestAPI, Google AppScript, and Paginatition.",
     tags: ["ReactJS", "AppScript", "Tailwind"],
     imageUrl: NotImage,
+    link:""
   },
   {
     title: "Event Website Digital KEP",
@@ -102,6 +108,7 @@ export const projectsData = [
       "My project for 1 month was also to create a digital event website, with features such as RestAPI, and Pagination.",
       tags: ["ReactJS", "Tailwind"],
     imageUrl: KEP,
+    link:"https://kep2024.vercel.app/"
   },
   {
     title: "CCLaundry | UIUX, Frontend and System Analist",
@@ -110,6 +117,16 @@ export const projectsData = [
       "My project for 6 months was also, creating a website and Mobile application, for ordering and delivering laundry with a website and Application.",
       tags: ["CI/CD", "Flutter", "Dart"],
     imageUrl: CCLaundry,
+    link:"https://drive.google.com/drive/folders/1t-udZTi4x_aBHq2_UDTVew2iDs8uiSLu?usp=sharing"
+  },
+  {
+    title: "All Design Volunteering and Content Design",
+    date: "October 2021 - February 2023",
+    description:
+      "Here are all the designs and design content that I participated in from all committees during college",
+      tags: ["Adobe Photoshop", "CorelDraw", "Adobe Ilustrator"],
+    imageUrl: AllDesign,
+    link:"https://drive.google.com/drive/folders/17abgCcUJqA6CySSNpsNYp8JAjJGa3_Q3?usp=sharing"
   },
 ] as const;
 
