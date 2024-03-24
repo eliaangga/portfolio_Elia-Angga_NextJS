@@ -66,7 +66,7 @@ export default function Intro() {
       >
         <span className="font-bold">Hello, I'm Elia Angga.</span> I'm a{" "}
         <span className="font-bold">UIUX and FrontEnd Development</span> with{" "}
-        <span className="font-bold">3 Months</span> of Internship, and and between the 
+        <span className="font-bold">3 Months</span> of Internship, and between the 
         <span className="italic"> sites and applications </span>the project is working on. My focus is{" "}
         <span className="underline">Figma for Design and ReactJS (NextJS is currently still learning) for Programming</span>
       </motion.h1>
