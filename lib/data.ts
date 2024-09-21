@@ -8,7 +8,7 @@ import IndonesianaidWeb from "@/public/indonesianaidWeb.png";
 import ComingSoon from "@/public/ComingSoon.png";
 import NotImage from "@/public/NotImage.png";
 import AllDesign from "@/public/AllDesign.png";
-import SahabatCGI from "@public/SahabatCGI.png";
+import SahabatCGI from "@/public/SahabatCGI.png";
 
 export const links = [
   {
