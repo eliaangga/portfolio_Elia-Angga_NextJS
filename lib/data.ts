@@ -8,6 +8,7 @@ import IndonesianaidWeb from "@/public/indonesianaidWeb.png";
 import ComingSoon from "@/public/ComingSoon.png";
 import NotImage from "@/public/NotImage.png";
 import AllDesign from "@/public/AllDesign.png";
+import SahabatCGI from "@public/SahabatCGI.png";
 
 export const links = [
   {
@@ -57,12 +58,12 @@ export const experiencesData = [
 
 export const projectsData = [
   {
-    title: "Elgeka Mobile App | UIUX",
-    date: "October 2023 - Present",
+    title: "Sahabat CGI Mobile App | UIUX Designer",
+    date: "October 2023 - August 2024",
     description:
-      "I worked on a project as UIUX in Elgeka Team to develop Health Monitoring",
+      "I worked on a project as UIUX in Sahabat CGI Team to develop app mobile and our focus on the Mobile Team is to form a software that can monitor the health of patients/communities regularly",
     tags: ["Figma", "User Interface", "User Experience"],
-    imageUrl: ComingSoon,
+    imageUrl: SahabatCGI,
     link:""
   },
   {
