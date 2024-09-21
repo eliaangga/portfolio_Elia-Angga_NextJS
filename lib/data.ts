@@ -59,7 +59,7 @@ export const experiencesData = [
 export const projectsData = [
   {
     title: "Sahabat CGI Mobile App | UIUX Designer",
-    date: "October 2023 - September 2024",
+    date: "October 2023 - August 2024",
     description:
       "I worked on a project as UIUX in Sahabat CGI Team to develop app mobile and our focus on the Mobile Team is to form a software that can monitor the health of patients/communities regularly",
     tags: ["Figma", "User Interface", "User Experience"],
