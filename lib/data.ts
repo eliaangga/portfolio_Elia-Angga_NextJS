@@ -121,8 +121,8 @@ export const projectsData = [
     link:"https://drive.google.com/drive/folders/1t-udZTi4x_aBHq2_UDTVew2iDs8uiSLu?usp=sharing"
   },
   {
-    title: "All Design Volunteering and Content Design",
-    date: "October 2021 - February 2023",
+    title: "Freelance Design and Voluntering Design",
+    date: "October 2021 - Now",
     description:
       "Here are all the designs and design content that I participated in from all committees during college",
       tags: ["Adobe Photoshop", "CorelDraw", "Adobe Ilustrator"],
