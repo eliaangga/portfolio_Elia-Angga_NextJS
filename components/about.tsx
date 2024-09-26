@@ -19,7 +19,7 @@ export default function About() {
     >
       <SectionHeading>About me</SectionHeading>
       <p className="mb-3">
-        I am an active Software Engineering student at {" "}
+        I am an FreshGraduaated Software Engineering student at {" "}
         <span className="font-medium">Telkom University</span>, driven by a strong enthusias for{" "}
         <span className="font-medium">UIUX Design and Frontend development</span>.{" "}
         <span className="italic">My favorite part of UIUX and Programming</span> is the build creativity in making designs and 
