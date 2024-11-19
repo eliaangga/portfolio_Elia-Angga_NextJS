@@ -54,6 +54,14 @@ export const experiencesData = [
     icon: React.createElement(CgWorkAlt),
     date: "August 2023 - December 2023",
   },
+  {
+    title: "Sahabat CGI (Internship Project)",
+    location: "Bandung",
+    description:
+      "Sahabat CGI empowers individuals with Chronic Granulostic Leukemia and digestive tract cancer through a dedicated health monitoring app. I designed 27 user-centered pages focused on health tracking and medication management, working closely with patients and doctors to create an intuitive system that enhances treatment adherence and quality of life.",
+    icon: React.createElement(CgWorkAlt),
+    date: "March 2024 - August 2024",
+  },
 ] as const;
 
 export const projectsData = [
