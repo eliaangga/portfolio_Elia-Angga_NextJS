@@ -72,7 +72,7 @@ export const projectsData = [
       "I worked on a project as UIUX in Sahabat CGI Team to develop app mobile and our focus on the Mobile Team is to form a software that can monitor the health of patients/communities regularly",
     tags: ["Figma", "User Interface", "User Experience"],
     imageUrl: SahabatCGI,
-    link:""
+    link:"https://www.linkedin.com/posts/eliaangga_appmobile-sahabatcgi-healthapp-activity-7245764491869634560-zzLY?utm_source=share&utm_medium=member_desktop"
   },
   {
     title: "Indonesian AID | UIUX Web and Frontend",
@@ -81,7 +81,7 @@ export const projectsData = [
       "During my Onsite internship. In addition to designing, creating websites such as language changer features, pagination, etc",
     tags: ["ReactJS", "Figma", "Adobe Photoshop", "Git"],
     imageUrl: IndonesianaidWeb,
-    link:""
+    link:"https://ldkpi.kemenkeu.go.id/"
   },
   {
     title: "Indonesian AID | UIUX Mobile",
