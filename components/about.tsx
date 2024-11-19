@@ -30,8 +30,11 @@ export default function About() {
           FIgma, React, and Next.js
         </span>
         . I am also familiar with JavaScript and TypeScript. I am always looking to
-        learn new technologies. I am currently looking for a{" "}
-        <span className="font-medium">full-time position</span> as a UIUX and Frontend.
+        learn new technologies. 
+        And Fresh graduate in Software Engineering with strong technical and communication skills, demonstrating high levels of initiative and innovation. An analytical, adaptable, and detail-oriented individual who excels under pressure, both in team settings and independently. 
+        I am currently Field of interests for a{" "}
+        <span className="font-medium">full-time position</span> 
+        <span className="font-bold italic"> as a Management Trainee, Human Capital, UI/UX Design, Product Designer, Technology Innovation, System Analyst, Quality Assurance, and Digital Banking, Frontend Developer, and IT Support. </span>
       </p>
 
       {/* <p>
